@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-21 01:38:04</sys_created_on>
+        <sys_id>73f1e7792ff811108b61ea5ef699b610</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_854574_assignt_0_assignments.x_854574_assignt_0.assignments_user</sys_name>
+        <sys_package display_value="AssignTrackr" source="x_854574_assignt_0">0ce65b7d2fb811108b61ea5ef699b6a8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AssignTrackr">0ce65b7d2fb811108b61ea5ef699b6a8</sys_scope>
+        <sys_security_acl display_value="x_854574_assignt_0_assignments">bbf1e7792ff811108b61ea5ef699b60c</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_73f1e7792ff811108b61ea5ef699b610</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-21 01:38:04</sys_updated_on>
+        <sys_user_role display_value="x_854574_assignt_0.assignments_user" name="x_854574_assignt_0.assignments_user">3df167792ff811108b61ea5ef699b66b</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
