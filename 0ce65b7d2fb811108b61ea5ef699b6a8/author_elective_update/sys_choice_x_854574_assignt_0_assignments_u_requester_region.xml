@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_requester_region" table="x_854574_assignt_0_assignments" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_requester_region</element>
+            <name>x_854574_assignt_0_assignments</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-21 18:24:13</sys_created_on>
+            <sys_id>9a4887862fb851108b61ea5ef699b605</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_requester_region</sys_name>
+            <sys_package display_value="AssignTrackr" source="x_854574_assignt_0">0ce65b7d2fb811108b61ea5ef699b6a8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AssignTrackr">0ce65b7d2fb811108b61ea5ef699b6a8</sys_scope>
+            <sys_update_name>sys_choice_x_854574_assignt_0_assignments_u_requester_region</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-21 18:24:13</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_requester_region</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AFR</label>
+            <language>en</language>
+            <name>x_854574_assignt_0_assignments</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-21 18:24:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>164887862fb851108b61ea5ef699b605</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-21 18:24:13</sys_updated_on>
+            <value>afr</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_requester_region</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ASIA</label>
+            <language>en</language>
+            <name>x_854574_assignt_0_assignments</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-21 18:24:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>924887862fb851108b61ea5ef699b607</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-21 18:24:13</sys_updated_on>
+            <value>asia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_requester_region</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DC</label>
+            <language>en</language>
+            <name>x_854574_assignt_0_assignments</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-21 18:24:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>124887862fb851108b61ea5ef699b608</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-21 18:24:13</sys_updated_on>
+            <value>dc</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_requester_region</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EE</label>
+            <language>en</language>
+            <name>x_854574_assignt_0_assignments</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-21 18:24:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>564887862fb851108b61ea5ef699b615</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-21 18:24:13</sys_updated_on>
+            <value>ee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_requester_region</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LAC</label>
+            <language>en</language>
+            <name>x_854574_assignt_0_assignments</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-21 18:24:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d24887862fb851108b61ea5ef699b616</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-21 18:24:13</sys_updated_on>
+            <value>lac</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_requester_region</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ME</label>
+            <language>en</language>
+            <name>x_854574_assignt_0_assignments</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-21 18:24:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>524887862fb851108b61ea5ef699b617</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-21 18:24:13</sys_updated_on>
+            <value>me</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

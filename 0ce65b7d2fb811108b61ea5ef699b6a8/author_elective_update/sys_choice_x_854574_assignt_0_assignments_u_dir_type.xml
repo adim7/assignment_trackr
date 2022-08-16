@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_dir_type" table="x_854574_assignt_0_assignments" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_dir_type</element>
+            <name>x_854574_assignt_0_assignments</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-21 18:24:14</sys_created_on>
+            <sys_id>2e4887862fb851108b61ea5ef699b695</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_dir_type</sys_name>
+            <sys_package display_value="AssignTrackr" source="x_854574_assignt_0">0ce65b7d2fb811108b61ea5ef699b6a8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AssignTrackr">0ce65b7d2fb811108b61ea5ef699b6a8</sys_scope>
+            <sys_update_name>sys_choice_x_854574_assignt_0_assignments_u_dir_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-21 18:24:14</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_dir_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MA</label>
+            <language>en</language>
+            <name>x_854574_assignt_0_assignments</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-21 18:24:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e64887862fb851108b61ea5ef699b695</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-21 18:24:14</sys_updated_on>
+            <value>ma</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_dir_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TA</label>
+            <language>en</language>
+            <name>x_854574_assignt_0_assignments</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-21 18:24:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>624887862fb851108b61ea5ef699b697</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-21 18:24:14</sys_updated_on>
+            <value>ta</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
