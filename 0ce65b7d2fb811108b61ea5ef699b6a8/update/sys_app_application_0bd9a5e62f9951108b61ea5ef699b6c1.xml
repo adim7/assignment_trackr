@@ -5,25 +5,25 @@
         <description/>
         <device_type>browser</device_type>
         <hint/>
-        <name>Assignments</name>
+        <name>Clients</name>
         <order>100</order>
-        <roles>x_854574_assignt_0.assignments_user</roles>
+        <roles>x_854574_assignt_0.clients_user</roles>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-07-21 01:38:03</sys_created_on>
+        <sys_created_on>2022-08-16 21:20:02</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>e3f1a7792ff811108b61ea5ef699b6fe</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Assignments</sys_name>
+        <sys_id>0bd9a5e62f9951108b61ea5ef699b6c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Clients</sys_name>
         <sys_overrides/>
         <sys_package display_value="AssignTrackr" source="x_854574_assignt_0">0ce65b7d2fb811108b61ea5ef699b6a8</sys_package>
         <sys_policy/>
         <sys_scope display_value="AssignTrackr">0ce65b7d2fb811108b61ea5ef699b6a8</sys_scope>
-        <sys_update_name>sys_app_application_e3f1a7792ff811108b61ea5ef699b6fe</sys_update_name>
+        <sys_update_name>sys_app_application_0bd9a5e62f9951108b61ea5ef699b6c1</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-08-16 20:55:13</sys_updated_on>
-        <title>Assignments</title>
+        <sys_updated_on>2022-08-16 21:20:02</sys_updated_on>
+        <title>Clients</title>
         <view_name/>
     </sys_app_application>
 </record_update>

@@ -4,37 +4,39 @@
         <application display_value="Assignments">e3f1a7792ff811108b61ea5ef699b6fe</application>
         <assessment/>
         <device_type/>
-        <filter/>
+        <filter table="x_854574_assignt_0_assignments">primary_consultantISNOTEMPTY^EQ<item endquery="false" field="primary_consultant" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
         <hint/>
         <homepage/>
         <image/>
         <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>Assignments</mobile_title>
+        <mobile_title>Assigned</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_854574_assignt_0_assignments</name>
-        <order>200</order>
+        <order>300</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_854574_assignt_0.assignments_user</roles>
+        <roles/>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-07-21 01:38:03</sys_created_on>
+        <sys_created_on>2022-08-16 18:25:57</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>6ff1e7792ff811108b61ea5ef699b601</sys_id>
+        <sys_id>a261c1ea2fd551108b61ea5ef699b6a9</sys_id>
         <sys_mod_count>2</sys_mod_count>
-        <sys_name>All</sys_name>
+        <sys_name>Assigned</sys_name>
         <sys_overrides/>
         <sys_package display_value="AssignTrackr" source="x_854574_assignt_0">0ce65b7d2fb811108b61ea5ef699b6a8</sys_package>
         <sys_policy/>
         <sys_scope display_value="AssignTrackr">0ce65b7d2fb811108b61ea5ef699b6a8</sys_scope>
-        <sys_update_name>sys_app_module_6ff1e7792ff811108b61ea5ef699b601</sys_update_name>
+        <sys_update_name>sys_app_module_a261c1ea2fd551108b61ea5ef699b6a9</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-08-16 20:54:40</sys_updated_on>
+        <sys_updated_on>2022-08-16 20:52:50</sys_updated_on>
         <timeline_page/>
-        <title>All</title>
+        <title>Assigned</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

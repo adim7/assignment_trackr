@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="Assignments">e3f1a7792ff811108b61ea5ef699b6fe</application>
+        <application display_value="Clients">0bd9a5e62f9951108b61ea5ef699b6c1</application>
         <assessment/>
         <device_type/>
         <filter/>
@@ -10,31 +10,31 @@
         <image/>
         <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>Assignments</mobile_title>
+        <mobile_title>Clients</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_854574_assignt_0_assignments</name>
-        <order>200</order>
+        <name>x_854574_assignt_0_clients</name>
+        <order/>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_854574_assignt_0.assignments_user</roles>
+        <roles>x_854574_assignt_0.clients_user</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-07-21 01:38:03</sys_created_on>
+        <sys_created_on>2022-08-16 21:20:02</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>6ff1e7792ff811108b61ea5ef699b601</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>All</sys_name>
+        <sys_id>0bd9a5e62f9951108b61ea5ef699b6c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Clients</sys_name>
         <sys_overrides/>
         <sys_package display_value="AssignTrackr" source="x_854574_assignt_0">0ce65b7d2fb811108b61ea5ef699b6a8</sys_package>
         <sys_policy/>
         <sys_scope display_value="AssignTrackr">0ce65b7d2fb811108b61ea5ef699b6a8</sys_scope>
-        <sys_update_name>sys_app_module_6ff1e7792ff811108b61ea5ef699b601</sys_update_name>
+        <sys_update_name>sys_app_module_0bd9a5e62f9951108b61ea5ef699b6c4</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-08-16 20:54:40</sys_updated_on>
+        <sys_updated_on>2022-08-16 21:20:02</sys_updated_on>
         <timeline_page/>
-        <title>All</title>
+        <title>Clients</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

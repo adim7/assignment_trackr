@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Clients" max_length="40" name="x_854574_assignt_0_clients" sizeclass="0" type="collection">
+        <element display="true" label="Assignment" mandatory="true" max_length="32" name="assignment" reference="x_854574_assignt_0_assignments" type="reference"/>
+        <element label="ClientID" mandatory="true" max_length="20" name="clientid" type="string"/>
+        <element label="First Name" mandatory="true" max_length="40" name="first_name" type="string"/>
+        <element label="Last Name" mandatory="true" max_length="40" name="last_name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Organization" mandatory="true" max_length="20" name="organization" type="string"/>
+        <index name="index">
+            <element name="assignment"/>
+        </index>
+    </element>
+</database>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Assignments" max_length="40" name="x_854574_assignt_0_assignments" sizeclass="1" type="collection">
+    <element label="Assignments" max_length="40" name="x_854574_assignt_0_assignments" sizeclass="0" type="collection">
         <element label="Anticipated PoP" max_length="40" name="anticipated_pop" type="glide_duration"/>
         <element label="Canceled" max_length="40" name="canceled" type="boolean"/>
         <element label="Cost Amendment" max_length="20" name="cost_amendment" type="currency"/>
@@ -10,8 +10,8 @@
         <element label="Notes" max_length="10000" name="notes" type="journal"/>
         <element default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element label="PMO Rate" max_length="20" name="pmo_rate" type="decimal"/>
-        <element label="Primary Consultant" mandatory="true" max_length="20" name="primary_consultant" type="string"/>
-        <element label="Primary POC" mandatory="true" max_length="20" name="primary_poc" type="string"/>
+        <element label="Primary Consultant" mandatory="true" max_length="20" name="primary_consultant" reference="sys_user" type="reference"/>
+        <element label="Primary POC" mandatory="true" max_length="20" name="primary_poc" reference="x_854574_assignt_0_clients" type="reference"/>
         <element choice="1" display="true" label="Program" mandatory="true" max_length="40" name="program" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Dexis" sequence="0" value="dexis"/>
@@ -27,8 +27,8 @@
         <element choice="1" label="Requester Country" max_length="40" name="requisition_country" type="choice">
             <choice/>
         </element>
-        <element label="Secondary Consultant" max_length="20" name="secondary_consultant" type="string"/>
-        <element label="Secondary POC" max_length="20" name="secondary_poc" type="string"/>
+        <element label="Secondary Consultant" max_length="20" name="secondary_consultant" reference="sys_user" type="reference"/>
+        <element label="Secondary POC" max_length="20" name="secondary_poc" reference="x_854574_assignt_0_clients" type="reference"/>
         <element label="SOW Date" mandatory="true" max_length="40" name="sow_date" type="calendar_date_time"/>
         <element label="Start Date" max_length="40" name="start_date" type="calendar_date_time"/>
         <element choice="1" label="Status" mandatory="true" max_length="40" name="status" type="choice">
@@ -38,9 +38,9 @@
                 <element inactive_on_update="false" label="Planning" sequence="2" value="planning"/>
             </choice>
         </element>
-        <element label="Team Member 1" mandatory="true" max_length="20" name="team_member_1" type="string"/>
-        <element label="Team Member 2" max_length="20" name="team_member_2" type="string"/>
-        <element label="Team Member 3" max_length="20" name="team_member_3" type="string"/>
+        <element label="Team Member 1" mandatory="true" max_length="20" name="team_member_1" reference="sys_user" type="reference"/>
+        <element label="Team Member 2" max_length="20" name="team_member_2" reference="sys_user" type="reference"/>
+        <element label="Team Member 3" max_length="20" name="team_member_3" reference="sys_user" type="reference"/>
         <element label="Title" max_length="100" name="title" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Directive Type" mandatory="true" max_length="40" name="u_dir_type" type="string">
             <choice>
